@@ -6,7 +6,7 @@
 
 ### 🛠 Languages and tools
 
-![Angular](./src/angular.svg)](https://aleen42.github.io/badges/src/angular.svg)
+[![Angular](./src/angular.svg)](https://aleen42.github.io/badges/src/angular.svg)
 ![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
