@@ -1,9 +1,8 @@
 ### 👋 Hi, I'm Kamil Delekta 
 
 ### 💻 Contact
-<p align="center">
- <a href="mailto:kamildelektaa@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; 
-</p>
+
+<a href="mailto:kamildelektaa@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; 
 
 ### 🛠 Languages and tools
 
